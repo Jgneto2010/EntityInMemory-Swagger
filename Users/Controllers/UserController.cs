@@ -26,6 +26,13 @@ namespace Users.Controllers
             return _entity.Usuarios.ToList();
         }
 
+        [HttpGet]
+        [Route("/BuscaPeloNome")]
+        public ActionResult<IEnumerable<User>> GetByName()
+        {
+            return _entity.Usuarios.OrderBy(x => x.Name).ToList();
+        }
+
         [HttpPost]
         public void Post([FromBody] User usuario)
         {
