@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julianno\\source\\repos\\Users\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julianno\\source\\repos\\Users\\Domain\\Domain.csproj": {
+    "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julianno\\source\\repos\\Users\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Julianno\\source\\repos\\Users\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Julianno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julianno\\source\\repos\\Users\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

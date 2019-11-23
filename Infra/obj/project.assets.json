@@ -3012,11 +3012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julianno\\source\\repos\\Users\\Infra\\Infra.csproj",
+      "projectUniqueName": "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Infra\\Infra.csproj",
       "projectName": "Infra",
-      "projectPath": "C:\\Users\\Julianno\\source\\repos\\Users\\Infra\\Infra.csproj",
+      "projectPath": "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Infra\\Infra.csproj",
       "packagesPath": "C:\\Users\\Julianno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julianno\\source\\repos\\Users\\Infra\\obj\\",
+      "outputPath": "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3035,8 +3035,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Julianno\\source\\repos\\Users\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Julianno\\source\\repos\\Users\\Domain\\Domain.csproj"
+            "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Julianno\\Documents\\projetoneto\\EntityInMemory-Swagger\\Domain\\Domain.csproj"
             }
           }
         }
